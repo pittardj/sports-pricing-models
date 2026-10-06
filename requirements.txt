@@ -1,0 +1,11 @@
+# Ingestion notebooks run on Databricks (PySpark and Delta Lake provided by the runtime)
+requests>=2.31
+pandas>=2.0
+numpy>=1.26
+scipy>=1.11
+pyspark>=3.5
+
+# Validation
+pymc>=5.10
+arviz>=0.17
+matplotlib>=3.8
